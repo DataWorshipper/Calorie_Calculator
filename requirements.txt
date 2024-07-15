@@ -1,0 +1,8 @@
+gradio
+transformers
+torch
+torchvision
+requests
+langchain_huggingface
+langchain
+pillow
